@@ -1,2 +1,2 @@
 # SQLZOO_solutions
-My solutions to all tutorials and assessments on https://sqlzoo.net/
+My solutions to all tutorial questions and assessments on https://sqlzoo.net/
