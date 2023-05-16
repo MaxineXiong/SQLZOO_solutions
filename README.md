@@ -29,6 +29,7 @@ The `README.md` file provides an overview of the repository and serves as a guid
 To use this project, follow these steps:
 
 1. Clone the repository using the following command:
+
 ```git clone https://github.com/MaxineXiong/SQLZOO_solutions.git```
 
 
