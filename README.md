@@ -1,7 +1,7 @@
 # SQLZOO Solutions
 [![GitHub][github_badge]][github_link]
 
-This repository contains my solutions to the SQL exercises from [SQLZOO](www.sqlzoo.net). SQLZOO is an interactive platform that provides a hands-on learning experience for SQL beginners and enthusiasts. Each exercise presents a real-world scenario and challenges you to write SQL queries to retrieve and manipulate data from a given database.
+This repository contains my solutions to the SQL exercises from [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial). SQLZOO is an interactive platform that provides a hands-on learning experience for SQL beginners and enthusiasts. Each exercise presents a real-world scenario and challenges you to write SQL queries to retrieve and manipulate data from a given database.
 
 ## Table of Contents
 
