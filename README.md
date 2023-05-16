@@ -28,7 +28,7 @@ The `README.md` file provides an overview of the repository and serves as a guid
 To use this project, follow these steps:
 
 1. Clone the repository using the following command:
-`git clone https://github.com/MaxineXiong/SQLZOO_solutions.git`
+```git clone https://github.com/MaxineXiong/SQLZOO_solutions.git```
 
 
 2. Ensure you have a compatible SQL database management system installed on your machine. Popular options include MySQL, PostgreSQL, SQLite, or Microsoft SQL Server.
