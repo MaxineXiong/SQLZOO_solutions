@@ -1,4 +1,5 @@
 # SQLZOO Solutions
+[![GitHub][github_badge]][github_link]
 
 This repository contains my solutions to the SQL exercises from SQLZOO (www.sqlzoo.net). SQLZOO is an interactive platform that provides a hands-on learning experience for SQL beginners and enthusiasts. Each exercise presents a real-world scenario and challenges you to write SQL queries to retrieve and manipulate data from a given database.
 
@@ -47,4 +48,5 @@ If you're using these solutions as a learning resource, it's recommended to atte
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code in this repository.
 
-
+[github_badge]: https://badgen.net/badge/icon/GitHub?icon=github&color=black&label
+[github_link]: https://github.com/okld/streamlit-ace
