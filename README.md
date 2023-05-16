@@ -2,7 +2,7 @@
 [![GitHub][github_badge]][github_link]
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains my solutions to the SQL exercises from [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial). SQLZOO is an interactive platform that provides a hands-on learning experience for SQL beginners and enthusiasts. Each exercise presents a real-world scenario and challenges you to write SQL queries to retrieve and manipulate data from a given database.
+This repository contains my solutions to the challenging SQL exercises from [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial). SQLZOO is an interactive platform that provides a hands-on learning experience for SQL beginners and enthusiasts. Each exercise presents a real-world scenario and challenges you to write SQL queries to retrieve and manipulate data from a given database.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This repository contains my solutions to the SQL exercises from [SQLZOO](https:/
 
 ## About SQLZOO Solutions
 
-In this repository, you will find my solutions to the SQL exercises available on SQLZOO. Each solution is organized in separate files, named according to the exercise number. The repository is structured as follows:
+In this repository, you will find my solutions to some SQL exercises available on SQLZOO, specifically focusing on the hard ones. Each solution is organized in separate files, named according to the exercise number. The repository is structured as follows:
 
 ```
 ├── exercise-1.sql
