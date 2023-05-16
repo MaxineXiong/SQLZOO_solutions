@@ -1,5 +1,6 @@
 # SQLZOO Solutions
 [![GitHub][github_badge]][github_link]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains my solutions to the SQL exercises from [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial). SQLZOO is an interactive platform that provides a hands-on learning experience for SQL beginners and enthusiasts. Each exercise presents a real-world scenario and challenges you to write SQL queries to retrieve and manipulate data from a given database.
 
