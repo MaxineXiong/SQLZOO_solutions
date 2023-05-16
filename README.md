@@ -16,12 +16,16 @@ This repository contains my solutions to the challenging SQL exercises from [SQL
 In this repository, you will find my solutions to some SQL exercises available on SQLZOO, specifically focusing on the hard ones. Each solution is organized in separate files, named according to the exercise number. The repository is structured as follows:
 
 ```
-├── exercise-1.sql
-├── exercise-2.sql
-├── exercise-3.sql
-...
-├── exercise-N.sql
-└── README.md
+├── SQLZOO_Assessment Challenging Questions & Answers
+  ├── exercise-1.sql
+  ├── exercise-2.sql
+  ├── exercise-3.sql
+  ...
+  ├── exercise-N.sql
+├── LICENSE
+├── README.md
+├── SQLZOO_MySQL notes.sql
+└── SQLZOO_Tutorial Challenging Questions & Answers.sql
 ```
 The `README.md` file provides an overview of the repository and serves as a guide for anyone interested in using or exploring the project.
 
