@@ -46,7 +46,7 @@ If you're using these solutions as a learning resource, it's recommended to atte
 
 ## License
 
-This project is licensed under the [MIT License]([LICENSE](https://choosealicense.com/licenses/mit/)). Feel free to use, modify, and distribute the code in this repository.
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). Feel free to use, modify, and distribute the code in this repository.
 
 [github_badge]: https://badgen.net/badge/icon/GitHub?icon=github&color=black&label
 [github_link]: https://github.com/okld/streamlit-ace
